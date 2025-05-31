@@ -17,8 +17,8 @@
 }
 
 .gallery ul li a img {
-    width: 25vw;
-    height: 32vh;
+    width: 20vw;
+    height: 30vh;
     border: 6px solid white;
     border-radius: 15px;
 }
